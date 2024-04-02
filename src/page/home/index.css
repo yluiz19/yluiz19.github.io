@@ -1,0 +1,90 @@
+
+
+body{
+    background-color: #fcf0df;
+    text-align: center;
+ 
+}
+
+
+
+
+.pt1{
+    font-family: 'coffee';
+    
+  
+  
+
+    /* text-shadow horizontal vertical blur color ; */
+
+    text-shadow: 5px 5px 10px rgba( 0, 0, 0, 0.5);
+    display: inline-block;
+    background-color: #D9B26F;
+    padding: 40px;
+    
+    
+    justify-content: center;
+    align-items: center;
+
+    margin-left: 20px;
+
+    /* box-shadow horizontal vertical blur color ; */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+    
+
+
+}
+
+.pt1 h1{
+    font-family: 'coffe';
+}
+
+.pt1 p{
+    font-family: 'montserrat';
+}
+
+.pt2 h1{
+    font-family: 'coffe';
+}
+
+.pt2 p{
+    font-family: 'montserrat';
+}
+
+.pt5 a{
+     /* text-shadow horizontal vertical blur color ; */
+
+     text-shadow: 5px 5px 10px rgba( 0, 0, 0, 0.5);
+    text-decoration: none;
+    padding: 30px;
+    gap: 30px;
+    margin: 30px;
+    margin-top: 30px;
+    color: #fff;
+
+
+}
+
+.cartao{
+    background-color: rgb(233, 217, 217);
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    display: inline-block;
+    justify-content: center;
+    margin: 30px;
+    
+}
+
+.cartao h1{
+    font-family: 'coffe';
+
+}
+
+.cartao p{
+    font-family: 'coffe';
+}
+
+.cartao img{
+    border-radius: 30px;
+}

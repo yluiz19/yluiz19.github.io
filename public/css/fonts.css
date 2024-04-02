@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'coffe';
+    src: url(/public/assets/fonts/Cafe\ Friday.otf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@font-face {
+    font-family: 'cafe';
+    src: url(/public/assets/fonts/COFFETE.otf);
+}
+
+
